@@ -4,7 +4,7 @@ A reproducible, privacy-conscious portfolio documenting PostgreSQL 16 backup and
 
 ## Portfolio connections
 
-- [TradeIntel DBA Portfolio](https://github.com/zakhedba/tradeintel-dba-portfolio) — broader DBA portfolio; source contents should be reviewed before describing individual features.
+- [TradeIntel DBA Portfolio] — broader DBA portfolio; source contents should be reviewed before describing individual features.
 - [Debug Database Control Tower / KPI Monitoring Dashboard](https://github.com/zakhedba/debug-database-control-tower_KPI_Monitoring_Dashboard/tree/main) — cross-platform control-tower work. SQL Server/Oracle KPI concepts are *referenced*, not misrepresented as PostgreSQL measurements.
 
 ## Evidence-backed case studies
