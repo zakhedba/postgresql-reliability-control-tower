@@ -3,8 +3,6 @@
 A reproducible, privacy-conscious portfolio documenting PostgreSQL 16 backup and restore assurance for an operational trading application. This repository records observed outcomes, outstanding verification, recovery readiness KPIs, and actionable runbooks. It **does not** contain database dumps, physical backups, WAL, credentials, production endpoints, or raw operational logs.
 
 ## Portfolio connections
-
-- [TradeIntel DBA Portfolio] — broader DBA portfolio; source contents should be reviewed before describing individual features.
 - [Debug Database Control Tower / KPI Monitoring Dashboard](https://github.com/zakhedba/debug-database-control-tower_KPI_Monitoring_Dashboard/tree/main) — cross-platform control-tower work. SQL Server/Oracle KPI concepts are *referenced*, not misrepresented as PostgreSQL measurements.
 
 ## Evidence-backed case studies
