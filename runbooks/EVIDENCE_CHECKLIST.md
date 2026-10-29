@@ -1,6 +1,6 @@
 # Evidence review and safe export checklist
 
-## Docker Dallas: inspect existing logical restore lab (read-only)
+## Docker Server: inspect existing logical restore lab (read-only)
 
 ```bash
 find /srv/tradeintel-restore/evidence -maxdepth 2 -type f -printf '%f (%s bytes)\n'
