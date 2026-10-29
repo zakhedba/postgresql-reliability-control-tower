@@ -1,0 +1,19 @@
+# Private data — never publish real database contents
+*.dump
+*.backup
+*.tar
+*.gz
+*.log
+*.pem
+*.key
+*.p12
+.env
+.env.*
+backup_manifest
+pg_wal/
+pgdata/
+private/
+raw-evidence/
+evidence/*.txt
+*.sql.gz
+.DS_Store
